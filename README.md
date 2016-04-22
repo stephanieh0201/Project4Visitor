@@ -1,6 +1,8 @@
 ### Project4Visitor
 Henry Remache
+
 Stephanie Verlingo
+
 COMP 473
 
 #Problem Solved by the Visitor Pattern
