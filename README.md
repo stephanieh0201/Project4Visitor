@@ -1,11 +1,11 @@
-### Project4Visitor
+# Project4Visitor
 Henry Remache
 
 Stephanie Verlingo
 
 COMP 473
 
-#Problem Solved by the Visitor Pattern
+###Problem Solved by the Visitor Pattern
 The visitor pattern allows developers to separate certain operations from objects. This is useful when those objects
 are of different types and can be grouped into a collection of objects.
 
